@@ -32,7 +32,7 @@ Travel Industry, Property management and Tourism
 ## Airbnb_Dashboard_Link 
 [Click to view my Dashboard](https://public.tableau.com/app/profile/thanalakshmi.m1863/viz/MyDashboard1_16990939186760/Dashboard1?publish=yes)
 ## Libraries
-## Libraries/Modules needed for the project!
+### Libraries/Modules needed for the project!
 - Plotly, Seaborn - (To plot and visualize the data)
 - Pandas - (To Clean and maipulate the data)
 - Pymongo - (To store and retrieve the data by connecting with MongoDB Atlas)
