@@ -53,8 +53,9 @@ Travel Industry, Property management and Tourism
 
 
 ## Tableau_Dashboard
+####Image
 
-![image]()
+![Outlook]()
 
 ## Conclusions
 Through this exploratory data analysis and visualization project, we gained several interesting insights into the Airbnb rental market. Below we will summarise the answers to the questions that we wished to answer at the beginning of the project:
