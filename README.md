@@ -8,10 +8,11 @@ This project is an exploration and analysis of Airbnb data with a focus on geosp
 
 - [Introduction](#introduction)
 - [Domain](#Domain)
-- [Problem Statement ](#Problem Statement )
-- [Airbnb Dashboard Link](#Airbnb Dashboard Link)
+- [Problem Statement ](#Problem_Statement )
+- [Airbnb Dashboard Link](#Airbnb_Dashboard_Link)
 - [Libraries](#Libraries/Modules)
-- [Tableau Dashboard](# Tableau Dashboard)
+- [Tableau Dashboard](#Tableau_Dashboard)
+-[Conclusions](#Conclusions)
 ## Introduction
 
 The Airbnb Geospatial Analysis project provides users with tools to analyze Airbnb data from various countries and cities. It offers features such as:
@@ -47,7 +48,12 @@ The Airbnb Geospatial Analysis project provides users with tools to analyze Airb
   Utilize Tableau or Power BI to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
 
 
-### Tableau Dashboard
+## Tableau_Dashboard
 
 ![image]()
+
+## Conclusions
+Through this exploratory data analysis and visualization project, we gained several interesting insights into the Airbnb rental market. Below we will summarise the answers to the questions that we wished to answer at the beginning of the project:
+
+How do prices of listings vary by location? What localities in Countries are rated highly by guests? Manhattan has the most expensive rentals compared to the other boroughs. Prices are higher for rentals closer to city hotspots. Rentals that are rated highly on the location by the host also have higher prices
 
