@@ -21,9 +21,10 @@ The Airbnb Geospatial Analysis project provides users with tools to analyze Airb
 - Exploratory Data Analysis (EDA) for understanding price distributions, top hotels, and more.
 - Recommendations based on user-defined criteria, including price range.
 
-## **Domain** : **Travel Industry, Property management and Tourism**
+## Domain 
+Travel Industry, Property management and Tourism
 
-## **Problem Statement :**
+## Problem Statement 
   This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
 ## Airbnb Dashboard Link : [Click to view my Dashboard](https://public.tableau.com/app/profile/thanalakshmi.m1863/viz/MyDashboard1_16990939186760/Dashboard1?publish=yes)
