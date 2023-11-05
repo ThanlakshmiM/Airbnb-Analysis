@@ -24,10 +24,10 @@ The Airbnb Geospatial Analysis project provides users with tools to analyze Airb
 ## Domain 
 Travel Industry, Property management and Tourism
 
-## Problem Statement 
+## Problem_Statement 
   This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
-## Airbnb Dashboard Link : [Click to view my Dashboard](https://public.tableau.com/app/profile/thanalakshmi.m1863/viz/MyDashboard1_16990939186760/Dashboard1?publish=yes)
+## Airbnb_Dashboard_Link : [Click to view my Dashboard](https://public.tableau.com/app/profile/thanalakshmi.m1863/viz/MyDashboard1_16990939186760/Dashboard1?publish=yes)
 
 ## Libraries/Modules needed for the project!
 - Plotly, Seaborn - (To plot and visualize the data)
